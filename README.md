@@ -50,6 +50,11 @@ on your local network.
   just a reflection of whatever's already set
 - Overrange reads as "Overflow", or "Open" on Resistance/Continuity 
 - A live graphing window, Start/Stop/Clear
+- Localized into English, German, Spanish, Catalan, French, European
+  Portuguese, Brazilian Portuguese, Dutch, Italian, Polish, Czech, Danish,
+  Swedish, Norwegian (Bokmål), Finnish, Chinese (Simplified), Japanese, and
+  Korean
+
 
 ## Deliberately out of scope
 
@@ -156,6 +161,63 @@ Still best-effort / not yet confirmed:
 Please treat the app as a work in progress rather than a fully
 field-tested tool, and expect to tweak the command details in
 `DeviceClient.swift`/`Models.swift` against your own unit's behavior.
+
+## Installing the pre-built app (unsigned binary)
+
+This app is **ad-hoc signed** (`codesign --sign -`), not signed with a paid
+Apple Developer ID or notarized — this is a personal/hobby tool, not a
+distributed product. macOS Gatekeeper will therefore refuse to open it
+normally the first time, usually with a dialog saying it "cannot be opened
+because Apple cannot check it for malicious software" (wording varies by
+macOS version). This is expected — here's how to get past it:
+
+**Option A — System Settings (no Terminal needed):**
+1. Try to open the app once (double-click it) — it'll be blocked.
+2. Open **System Settings → Privacy & Security**, scroll down — you should
+   see a note that the app was blocked, with an **Open Anyway** button.
+   Click it.
+3. Try opening the app again; confirm in the follow-up dialog (may ask for
+   your password or Touch ID).
+
+**Option B — Terminal (one command, faster):**
+```sh
+xattr -cr "/path/to/DMM6500 Control.app"
+```
+This clears the quarantine flag macOS attaches to anything downloaded from
+the internet. After this, the app opens normally.
+
+You only need to do this once per copy of the app.
+
+## Building it yourself
+
+No Xcode project or license required — this is a plain Swift Package
+Manager executable, hand-wrapped into a `.app` bundle by a small script.
+
+**Requirements**: macOS 14+, and the Xcode **Command Line Tools** (not the
+full Xcode.app):
+```sh
+xcode-select --install
+```
+
+**Build and package:**
+```sh
+cd dmm6500-control
+swift build -c release      # compiles the binary
+./build_app.sh               # wraps it into DMM6500 Control.app
+```
+
+`build_app.sh` copies the compiled binary, the app icon, and all 18
+localization bundles into a proper `Contents/…` app structure, writes an
+`Info.plist`, and ad-hoc code-signs the result. The finished
+`DMM6500 Control.app` appears in the `dmm6500-control/` directory — drag it to
+`/Applications` if you'd like it there permanently. Since you signed it
+yourself locally, you won't hit the Gatekeeper warning above for your own
+build (quarantine is only attached to files that arrived via download,
+AirDrop, etc., not ones compiled on your own machine).
+
+To rebuild after making changes, just re-run both commands — `build_app.sh`
+always does a fresh `swift build` itself, so a bare `./build_app.sh` is
+enough for subsequent builds.
 
 ## License
 
