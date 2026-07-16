@@ -1,0 +1,105 @@
+"Connection" = "连接";
+"Host" = "主机";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "网络中万用表的 IP 地址或主机名";
+"Reconnect" = "重新连接";
+"Connect" = "连接";
+"Reconnect to the instrument" = "重新连接到仪器";
+"Connect to the instrument" = "连接到仪器";
+
+"Connected" = "已连接";
+"Not connected" = "未连接";
+"Disconnected" = "已断开连接";
+"Connection settings" = "连接设置";
+
+"Open graph window" = "打开图表窗口";
+"Graph" = "图表";
+"Stop" = "停止";
+"Start" = "开始";
+"Stop recording readings" = "停止记录读数";
+"Start recording readings" = "开始记录读数";
+"Clear" = "清除";
+"Clear all recorded data" = "清除所有已记录的数据";
+"No data recorded yet. Click Start to begin." = "尚未记录任何数据。点击“开始”即可开始记录。";
+"Time (s)" = "时间 (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "读取错误：%@";
+"Bias level set failed: %@" = "偏置电平设置失败：%@";
+"Function select failed: %@" = "功能选择失败：%@";
+"Speed set failed: %@" = "速度设置失败：%@";
+"Range set failed: %@" = "量程设置失败：%@";
+"Filter set failed: %@" = "滤波器设置失败：%@";
+
+"not connected" = "未连接";
+"no reply" = "无响应";
+"connection closed by device" = "设备关闭了连接";
+"could not decode reply" = "无法解码响应";
+"timed out waiting for device" = "等待设备响应超时";
+
+"Range" = "量程";
+"Auto" = "自动";
+"Measurement range, or Auto" = "测量量程，或自动";
+"Bias Level" = "偏置电平";
+"Diode test current level" = "二极管测试电流等级";
+"Filter" = "滤波器";
+"Off" = "关闭";
+"Repeat 10x" = "重复 10 次";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "平均滤波：关闭，或使用仪器默认的重复模式 (×10)";
+"Rate" = "速率";
+"Measurement speed (sample rate) preset" = "测量速度（采样率）预设";
+"Advanced: raw speed value" = "高级：原始速度值";
+"Advanced" = "高级";
+"NPLC" = "NPLC";
+"Aperture (s)" = "孔径时间 (s)";
+"Bandwidth" = "带宽";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "检测器带宽：3、30 或 300 Hz";
+"Switch to Custom to edit" = "切换到“自定义”以进行编辑";
+"Apply changes" = "应用更改";
+
+"Voltage" = "电压";
+"Current" = "电流";
+"Resistance" = "电阻";
+"Other" = "其他";
+
+"DC Voltage" = "直流电压";
+"AC Voltage" = "交流电压";
+"DC Current" = "直流电流";
+"AC Current" = "交流电流";
+"2-Wire Resistance" = "二线电阻";
+"4-Wire Resistance" = "四线电阻";
+"Diode" = "二极管";
+"Capacitance" = "电容";
+"Continuity" = "通断测试";
+"Temperature" = "温度";
+"Frequency" = "频率";
+"Period" = "周期";
+"Change the measurement function" = "更改测量功能";
+
+"Moving" = "移动平均";
+"Repeating" = "重复";
+"Fast" = "快速";
+"Medium" = "中速";
+"Slow" = "慢速";
+"Custom" = "自定义";
+
+"Open" = "开路";
+"Overflow" = "溢出";
+
+"Front" = "前面板";
+"Rear" = "后面板";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "当前测量所选用的输入端子（前面板或后面板）";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "自动置零已开启：仪器会定期自动置零，以消除偏移漂移";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "直流电压输入阻抗：自动（在较低量程下 >10 GΩ）";
+"DC Voltage input impedance: fixed 10 MΩ" = "直流电压输入阻抗：固定为 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "导出 CSV…";
+"Save recorded data as a CSV file" = "将记录的数据保存为 CSV 文件";
+"Could not save CSV" = "无法保存 CSV";

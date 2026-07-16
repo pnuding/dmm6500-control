@@ -1,0 +1,105 @@
+"Connection" = "接続";
+"Host" = "ホスト";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "ネットワーク上のマルチメーターのIPアドレスまたはホスト名";
+"Reconnect" = "再接続";
+"Connect" = "接続";
+"Reconnect to the instrument" = "計測器に再接続します";
+"Connect to the instrument" = "計測器に接続します";
+
+"Connected" = "接続済み";
+"Not connected" = "未接続";
+"Disconnected" = "切断済み";
+"Connection settings" = "接続設定";
+
+"Open graph window" = "グラフウィンドウを開く";
+"Graph" = "グラフ";
+"Stop" = "停止";
+"Start" = "開始";
+"Stop recording readings" = "測定値の記録を停止します";
+"Start recording readings" = "測定値の記録を開始します";
+"Clear" = "クリア";
+"Clear all recorded data" = "記録したデータをすべて消去します";
+"No data recorded yet. Click Start to begin." = "まだデータが記録されていません。「開始」をクリックして記録を始めてください。";
+"Time (s)" = "時間 (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "読み取りエラー: %@";
+"Bias level set failed: %@" = "バイアスレベルの設定に失敗しました: %@";
+"Function select failed: %@" = "機能の選択に失敗しました: %@";
+"Speed set failed: %@" = "速度の設定に失敗しました: %@";
+"Range set failed: %@" = "レンジの設定に失敗しました: %@";
+"Filter set failed: %@" = "フィルターの設定に失敗しました: %@";
+
+"not connected" = "未接続です";
+"no reply" = "応答がありません";
+"connection closed by device" = "機器側で接続が閉じられました";
+"could not decode reply" = "応答をデコードできませんでした";
+"timed out waiting for device" = "機器の応答待ちでタイムアウトしました";
+
+"Range" = "レンジ";
+"Auto" = "オート";
+"Measurement range, or Auto" = "測定レンジ、またはオート";
+"Bias Level" = "バイアスレベル";
+"Diode test current level" = "ダイオード試験電流レベル";
+"Filter" = "フィルター";
+"Off" = "オフ";
+"Repeat 10x" = "10回リピート";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "平均化フィルター: オフ、または機器デフォルトのリピート (×10)";
+"Rate" = "レート";
+"Measurement speed (sample rate) preset" = "測定速度（サンプルレート）のプリセット";
+"Advanced: raw speed value" = "詳細設定: 速度の生値";
+"Advanced" = "詳細設定";
+"NPLC" = "NPLC";
+"Aperture (s)" = "アパーチャ (s)";
+"Bandwidth" = "帯域幅";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "検出器帯域幅: 3、30、または300 Hz";
+"Switch to Custom to edit" = "編集するには「カスタム」に切り替えてください";
+"Apply changes" = "変更を適用";
+
+"Voltage" = "電圧";
+"Current" = "電流";
+"Resistance" = "抵抗";
+"Other" = "その他";
+
+"DC Voltage" = "DC電圧";
+"AC Voltage" = "AC電圧";
+"DC Current" = "DC電流";
+"AC Current" = "AC電流";
+"2-Wire Resistance" = "2線式抵抗";
+"4-Wire Resistance" = "4線式抵抗";
+"Diode" = "ダイオード";
+"Capacitance" = "静電容量";
+"Continuity" = "導通";
+"Temperature" = "温度";
+"Frequency" = "周波数";
+"Period" = "周期";
+"Change the measurement function" = "測定機能を変更します";
+
+"Moving" = "移動平均";
+"Repeating" = "反復平均";
+"Fast" = "高速";
+"Medium" = "中速";
+"Slow" = "低速";
+"Custom" = "カスタム";
+
+"Open" = "オープン";
+"Overflow" = "オーバーフロー";
+
+"Front" = "フロント";
+"Rear" = "リア";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "この測定で現在選択されている入力端子（フロントパネルまたはリアパネル）";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "オートゼロがオンです。オフセットドリフトを打ち消すため、機器が定期的に自動ゼロ調整を行います";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "DC電圧入力インピーダンス: オート（下位レンジでは >10 GΩ）";
+"DC Voltage input impedance: fixed 10 MΩ" = "DC電圧入力インピーダンス: 固定 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "CSVを書き出す…";
+"Save recorded data as a CSV file" = "記録したデータをCSVファイルとして保存";
+"Could not save CSV" = "CSVを保存できませんでした";

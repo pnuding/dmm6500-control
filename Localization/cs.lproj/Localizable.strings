@@ -1,0 +1,105 @@
+"Connection" = "Připojení";
+"Host" = "Hostitel";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "IP adresa nebo název hostitele multimetru ve vaší síti";
+"Reconnect" = "Znovu připojit";
+"Connect" = "Připojit";
+"Reconnect to the instrument" = "Znovu se připojit k přístroji";
+"Connect to the instrument" = "Připojit se k přístroji";
+
+"Connected" = "Připojeno";
+"Not connected" = "Nepřipojeno";
+"Disconnected" = "Odpojeno";
+"Connection settings" = "Nastavení připojení";
+
+"Open graph window" = "Otevřít okno grafu";
+"Graph" = "Graf";
+"Stop" = "Zastavit";
+"Start" = "Spustit";
+"Stop recording readings" = "Zastavit záznam hodnot";
+"Start recording readings" = "Spustit záznam hodnot";
+"Clear" = "Vymazat";
+"Clear all recorded data" = "Vymazat všechna zaznamenaná data";
+"No data recorded yet. Click Start to begin." = "Zatím nebyla zaznamenána žádná data. Záznam zahájíte kliknutím na Spustit.";
+"Time (s)" = "Čas (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Chyba čtení: %@";
+"Bias level set failed: %@" = "Nastavení úrovně předpětí se nezdařilo: %@";
+"Function select failed: %@" = "Výběr funkce se nezdařil: %@";
+"Speed set failed: %@" = "Nastavení rychlosti se nezdařilo: %@";
+"Range set failed: %@" = "Nastavení rozsahu se nezdařilo: %@";
+"Filter set failed: %@" = "Nastavení filtru se nezdařilo: %@";
+
+"not connected" = "nepřipojeno";
+"no reply" = "žádná odpověď";
+"connection closed by device" = "spojení uzavřeno zařízením";
+"could not decode reply" = "odpověď se nepodařilo dekódovat";
+"timed out waiting for device" = "vypršel časový limit čekání na zařízení";
+
+"Range" = "Rozsah";
+"Auto" = "Automaticky";
+"Measurement range, or Auto" = "Rozsah měření nebo Automaticky";
+"Bias Level" = "Úroveň předpětí";
+"Diode test current level" = "Úroveň testovacího proudu diody";
+"Filter" = "Filtr";
+"Off" = "Vypnuto";
+"Repeat 10x" = "Opakovat 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Průměrovací filtr: vypnuto, nebo výchozí opakování přístroje (×10)";
+"Rate" = "Rychlost";
+"Measurement speed (sample rate) preset" = "Přednastavení rychlosti měření (vzorkovací frekvence)";
+"Advanced: raw speed value" = "Pokročilé: přímá hodnota rychlosti";
+"Advanced" = "Pokročilé";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Apertura (s)";
+"Bandwidth" = "Šířka pásma";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Šířka pásma detektoru: 3, 30 nebo 300 Hz";
+"Switch to Custom to edit" = "Pro úpravu přepněte na Vlastní";
+"Apply changes" = "Použít změny";
+
+"Voltage" = "Napětí";
+"Current" = "Proud";
+"Resistance" = "Odpor";
+"Other" = "Ostatní";
+
+"DC Voltage" = "Stejnosměrné napětí";
+"AC Voltage" = "Střídavé napětí";
+"DC Current" = "Stejnosměrný proud";
+"AC Current" = "Střídavý proud";
+"2-Wire Resistance" = "Dvouvodičový odpor";
+"4-Wire Resistance" = "Čtyřvodičový odpor";
+"Diode" = "Dioda";
+"Capacitance" = "Kapacita";
+"Continuity" = "Kontinuita";
+"Temperature" = "Teplota";
+"Frequency" = "Frekvence";
+"Period" = "Perioda";
+"Change the measurement function" = "Změnit funkci měření";
+
+"Moving" = "Klouzavý";
+"Repeating" = "Opakující se";
+"Fast" = "Rychlý";
+"Medium" = "Střední";
+"Slow" = "Pomalý";
+"Custom" = "Vlastní";
+
+"Open" = "Otevřeno";
+"Overflow" = "Přetečení";
+
+"Front" = "Přední";
+"Rear" = "Zadní";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Vstupní svorky aktuálně vybrané pro toto měření (přední nebo zadní panel)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero je zapnuto: přístroj se pravidelně sám vynuluje, aby eliminoval posun offsetu";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Vstupní impedance stejnosměrného napětí: automatická (>10 GΩ na nižších rozsazích)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Vstupní impedance stejnosměrného napětí: pevná 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Exportovat CSV…";
+"Save recorded data as a CSV file" = "Uložit zaznamenaná data jako soubor CSV";
+"Could not save CSV" = "Soubor CSV se nepodařilo uložit";

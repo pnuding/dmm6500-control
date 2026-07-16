@@ -1,0 +1,105 @@
+"Connection" = "Conexão";
+"Host" = "Host";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "O endereço IP ou nome de host do multímetro na sua rede";
+"Reconnect" = "Reconectar";
+"Connect" = "Conectar";
+"Reconnect to the instrument" = "Reconectar ao instrumento";
+"Connect to the instrument" = "Conectar ao instrumento";
+
+"Connected" = "Conectado";
+"Not connected" = "Não conectado";
+"Disconnected" = "Desconectado";
+"Connection settings" = "Configurações de conexão";
+
+"Open graph window" = "Abrir janela do gráfico";
+"Graph" = "Gráfico";
+"Stop" = "Parar";
+"Start" = "Iniciar";
+"Stop recording readings" = "Parar de registrar as leituras";
+"Start recording readings" = "Iniciar o registro das leituras";
+"Clear" = "Limpar";
+"Clear all recorded data" = "Limpar todos os dados registrados";
+"No data recorded yet. Click Start to begin." = "Nenhum dado registrado ainda. Clique em Iniciar para começar.";
+"Time (s)" = "Tempo (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Erro de leitura: %@";
+"Bias level set failed: %@" = "Falha ao definir o nível de polarização: %@";
+"Function select failed: %@" = "Falha ao selecionar a função: %@";
+"Speed set failed: %@" = "Falha ao definir a velocidade: %@";
+"Range set failed: %@" = "Falha ao definir a faixa: %@";
+"Filter set failed: %@" = "Falha ao definir o filtro: %@";
+
+"not connected" = "não conectado";
+"no reply" = "sem resposta";
+"connection closed by device" = "conexão encerrada pelo dispositivo";
+"could not decode reply" = "não foi possível decodificar a resposta";
+"timed out waiting for device" = "tempo esgotado ao aguardar o dispositivo";
+
+"Range" = "Faixa";
+"Auto" = "Automático";
+"Measurement range, or Auto" = "Faixa de medição, ou Automático";
+"Bias Level" = "Nível de Polarização";
+"Diode test current level" = "Nível de corrente do teste de diodo";
+"Filter" = "Filtro";
+"Off" = "Desligado";
+"Repeat 10x" = "Repetir 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Filtro de média: desligado, ou repetir o padrão do instrumento (×10)";
+"Rate" = "Taxa";
+"Measurement speed (sample rate) preset" = "Predefinição de velocidade de medição (taxa de amostragem)";
+"Advanced: raw speed value" = "Avançado: valor bruto de velocidade";
+"Advanced" = "Avançado";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Abertura (s)";
+"Bandwidth" = "Largura de banda";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Largura de banda do detector: 3, 30 ou 300 Hz";
+"Switch to Custom to edit" = "Mude para Personalizado para editar";
+"Apply changes" = "Aplicar alterações";
+
+"Voltage" = "Tensão";
+"Current" = "Corrente";
+"Resistance" = "Resistência";
+"Other" = "Outro";
+
+"DC Voltage" = "Tensão CC";
+"AC Voltage" = "Tensão CA";
+"DC Current" = "Corrente CC";
+"AC Current" = "Corrente CA";
+"2-Wire Resistance" = "Resistência 2 Fios";
+"4-Wire Resistance" = "Resistência 4 Fios";
+"Diode" = "Diodo";
+"Capacitance" = "Capacitância";
+"Continuity" = "Continuidade";
+"Temperature" = "Temperatura";
+"Frequency" = "Frequência";
+"Period" = "Período";
+"Change the measurement function" = "Alterar a função de medição";
+
+"Moving" = "Móvel";
+"Repeating" = "Repetitivo";
+"Fast" = "Rápido";
+"Medium" = "Médio";
+"Slow" = "Lento";
+"Custom" = "Personalizado";
+
+"Open" = "Aberto";
+"Overflow" = "Estouro";
+
+"Front" = "Frontal";
+"Rear" = "Traseiro";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Terminais de entrada selecionados atualmente para esta medição (painel frontal ou traseiro)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "O Auto Zero está ativado: o instrumento se rezera periodicamente para cancelar o desvio de offset";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Impedância de entrada de Tensão CC: automática (>10 GΩ nas faixas mais baixas)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Impedância de entrada de Tensão CC: fixa em 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Exportar CSV…";
+"Save recorded data as a CSV file" = "Salvar os dados registrados como arquivo CSV";
+"Could not save CSV" = "Não foi possível salvar o CSV";

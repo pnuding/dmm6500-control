@@ -1,0 +1,105 @@
+"Connection" = "Tilkobling";
+"Host" = "Vert";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "Multimeterets IP-adresse eller vertsnavn på nettverket ditt";
+"Reconnect" = "Koble til på nytt";
+"Connect" = "Koble til";
+"Reconnect to the instrument" = "Koble til instrumentet på nytt";
+"Connect to the instrument" = "Koble til instrumentet";
+
+"Connected" = "Tilkoblet";
+"Not connected" = "Ikke tilkoblet";
+"Disconnected" = "Frakoblet";
+"Connection settings" = "Tilkoblingsinnstillinger";
+
+"Open graph window" = "Åpne grafvindu";
+"Graph" = "Graf";
+"Stop" = "Stopp";
+"Start" = "Start";
+"Stop recording readings" = "Stopp registrering av målinger";
+"Start recording readings" = "Start registrering av målinger";
+"Clear" = "Tøm";
+"Clear all recorded data" = "Slett alle registrerte data";
+"No data recorded yet. Click Start to begin." = "Ingen data registrert ennå. Klikk Start for å begynne.";
+"Time (s)" = "Tid (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Lesefeil: %@";
+"Bias level set failed: %@" = "Kunne ikke angi biasnivå: %@";
+"Function select failed: %@" = "Kunne ikke velge funksjon: %@";
+"Speed set failed: %@" = "Kunne ikke angi hastighet: %@";
+"Range set failed: %@" = "Kunne ikke angi område: %@";
+"Filter set failed: %@" = "Kunne ikke angi filter: %@";
+
+"not connected" = "ikke tilkoblet";
+"no reply" = "ingen respons";
+"connection closed by device" = "tilkoblingen ble lukket av enheten";
+"could not decode reply" = "kunne ikke tolke svaret";
+"timed out waiting for device" = "tidsavbrudd ved venting på enheten";
+
+"Range" = "Område";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Måleområde, eller Auto";
+"Bias Level" = "Biasnivå";
+"Diode test current level" = "Teststrømnivå for diode";
+"Filter" = "Filter";
+"Off" = "Av";
+"Repeat 10x" = "Gjenta 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Middelverdifilter: av, eller gjenta instrumentets standard (×10)";
+"Rate" = "Rate";
+"Measurement speed (sample rate) preset" = "Forhåndsinnstilling for målehastighet (samplingsrate)";
+"Advanced: raw speed value" = "Avansert: rå hastighetsverdi";
+"Advanced" = "Avansert";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Apertur (s)";
+"Bandwidth" = "Båndbredde";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Detektorbåndbredde: 3, 30 eller 300 Hz";
+"Switch to Custom to edit" = "Bytt til Egendefinert for å redigere";
+"Apply changes" = "Bruk endringer";
+
+"Voltage" = "Spenning";
+"Current" = "Strøm";
+"Resistance" = "Motstand";
+"Other" = "Annet";
+
+"DC Voltage" = "DC-spenning";
+"AC Voltage" = "AC-spenning";
+"DC Current" = "DC-strøm";
+"AC Current" = "AC-strøm";
+"2-Wire Resistance" = "2-leder motstand";
+"4-Wire Resistance" = "4-leder motstand";
+"Diode" = "Diode";
+"Capacitance" = "Kapasitans";
+"Continuity" = "Kontinuitet";
+"Temperature" = "Temperatur";
+"Frequency" = "Frekvens";
+"Period" = "Periode";
+"Change the measurement function" = "Endre målefunksjon";
+
+"Moving" = "Glidende";
+"Repeating" = "Gjentakende";
+"Fast" = "Rask";
+"Medium" = "Middels";
+"Slow" = "Sakte";
+"Custom" = "Egendefinert";
+
+"Open" = "Åpen";
+"Overflow" = "Overløp";
+
+"Front" = "Front";
+"Rear" = "Bak";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Inngangsterminaler som for øyeblikket er valgt for denne målingen (front- eller bakpanel)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero er på: instrumentet nullstiller seg selv periodisk for å oppheve nullpunktsdrift";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Inngangsimpedans for DC-spenning: automatisk (>10 GΩ på de lavere områdene)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Inngangsimpedans for DC-spenning: fast 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Eksporter CSV…";
+"Save recorded data as a CSV file" = "Lagre registrerte data som en CSV-fil";
+"Could not save CSV" = "CSV kunne ikke lagres";

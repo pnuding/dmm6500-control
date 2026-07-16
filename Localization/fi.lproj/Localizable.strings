@@ -1,0 +1,105 @@
+"Connection" = "Yhteys";
+"Host" = "Isäntä";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "Yleismittarin IP-osoite tai isäntänimi verkossasi";
+"Reconnect" = "Yhdistä uudelleen";
+"Connect" = "Yhdistä";
+"Reconnect to the instrument" = "Muodosta yhteys laitteeseen uudelleen";
+"Connect to the instrument" = "Muodosta yhteys laitteeseen";
+
+"Connected" = "Yhteys muodostettu";
+"Not connected" = "Ei yhteyttä";
+"Disconnected" = "Yhteys katkaistu";
+"Connection settings" = "Yhteysasetukset";
+
+"Open graph window" = "Avaa kaavioikkuna";
+"Graph" = "Kaavio";
+"Stop" = "Pysäytä";
+"Start" = "Aloita";
+"Stop recording readings" = "Lopeta lukemien tallennus";
+"Start recording readings" = "Aloita lukemien tallennus";
+"Clear" = "Tyhjennä";
+"Clear all recorded data" = "Tyhjennä kaikki tallennetut tiedot";
+"No data recorded yet. Click Start to begin." = "Tietoja ei ole vielä tallennettu. Aloita napsauttamalla Aloita.";
+"Time (s)" = "Aika (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Lukuvirhe: %@";
+"Bias level set failed: %@" = "Esijännitystason asetus epäonnistui: %@";
+"Function select failed: %@" = "Toiminnon valinta epäonnistui: %@";
+"Speed set failed: %@" = "Nopeuden asetus epäonnistui: %@";
+"Range set failed: %@" = "Alueen asetus epäonnistui: %@";
+"Filter set failed: %@" = "Suodattimen asetus epäonnistui: %@";
+
+"not connected" = "ei yhteyttä";
+"no reply" = "ei vastausta";
+"connection closed by device" = "laite katkaisi yhteyden";
+"could not decode reply" = "vastausta ei voitu tulkita";
+"timed out waiting for device" = "laitteen odotus aikakatkaistiin";
+
+"Range" = "Alue";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Mittausalue tai Auto";
+"Bias Level" = "Esijännitystaso";
+"Diode test current level" = "Diodin testivirran taso";
+"Filter" = "Suodatin";
+"Off" = "Pois";
+"Repeat 10x" = "Toista 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Keskiarvoistava suodatin: pois päältä tai laitteen oletusarvon toisto (×10)";
+"Rate" = "Nopeus";
+"Measurement speed (sample rate) preset" = "Mittausnopeuden (näytteenottotaajuuden) esiasetus";
+"Advanced: raw speed value" = "Lisäasetukset: raaka nopeusarvo";
+"Advanced" = "Lisäasetukset";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Aukkoaika (s)";
+"Bandwidth" = "Kaistanleveys";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Ilmaisimen kaistanleveys: 3, 30 tai 300 Hz";
+"Switch to Custom to edit" = "Voit muokata vaihtamalla tilaan Mukautettu";
+"Apply changes" = "Käytä muutoksia";
+
+"Voltage" = "Jännite";
+"Current" = "Virta";
+"Resistance" = "Resistanssi";
+"Other" = "Muu";
+
+"DC Voltage" = "Tasajännite";
+"AC Voltage" = "Vaihtojännite";
+"DC Current" = "Tasavirta";
+"AC Current" = "Vaihtovirta";
+"2-Wire Resistance" = "2-johdinresistanssi";
+"4-Wire Resistance" = "4-johdinresistanssi";
+"Diode" = "Diodi";
+"Capacitance" = "Kapasitanssi";
+"Continuity" = "Jatkuvuus";
+"Temperature" = "Lämpötila";
+"Frequency" = "Taajuus";
+"Period" = "Jaksonaika";
+"Change the measurement function" = "Vaihda mittaustoimintoa";
+
+"Moving" = "Liukuva";
+"Repeating" = "Toistuva";
+"Fast" = "Nopea";
+"Medium" = "Keskitaso";
+"Slow" = "Hidas";
+"Custom" = "Mukautettu";
+
+"Open" = "Avoin";
+"Overflow" = "Ylivuoto";
+
+"Front" = "Etu";
+"Rear" = "Taka";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Tähän mittaukseen tällä hetkellä valitut tuloliittimet (etu- tai takapaneeli)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Automaattinen nollaus on käytössä: laite nollaa itsensä säännöllisesti nollapisteen ajautuman kumoamiseksi";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Tasajännitteen tuloimpedanssi: automaattinen (>10 GΩ alemmilla alueilla)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Tasajännitteen tuloimpedanssi: kiinteä 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Vie CSV…";
+"Save recorded data as a CSV file" = "Tallenna tallennetut tiedot CSV-tiedostona";
+"Could not save CSV" = "CSV-tiedostoa ei voitu tallentaa";

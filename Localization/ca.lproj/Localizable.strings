@@ -1,0 +1,105 @@
+"Connection" = "Connexió";
+"Host" = "Host";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "L'adreça IP o el nom d'amfitrió del multímetre a la vostra xarxa";
+"Reconnect" = "Reconnecta";
+"Connect" = "Connecta";
+"Reconnect to the instrument" = "Torna a connectar amb l'instrument";
+"Connect to the instrument" = "Connecta amb l'instrument";
+
+"Connected" = "Connectat";
+"Not connected" = "No connectat";
+"Disconnected" = "Desconnectat";
+"Connection settings" = "Configuració de la connexió";
+
+"Open graph window" = "Obre la finestra del gràfic";
+"Graph" = "Gràfic";
+"Stop" = "Atura";
+"Start" = "Inicia";
+"Stop recording readings" = "Atura l'enregistrament de lectures";
+"Start recording readings" = "Inicia l'enregistrament de lectures";
+"Clear" = "Neteja";
+"Clear all recorded data" = "Esborra totes les dades enregistrades";
+"No data recorded yet. Click Start to begin." = "Encara no s'han enregistrat dades. Feu clic a Inicia per començar.";
+"Time (s)" = "Temps (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Error de lectura: %@";
+"Bias level set failed: %@" = "Error en establir el nivell de polarització: %@";
+"Function select failed: %@" = "Error en seleccionar la funció: %@";
+"Speed set failed: %@" = "Error en establir la velocitat: %@";
+"Range set failed: %@" = "Error en establir el rang: %@";
+"Filter set failed: %@" = "Error en establir el filtre: %@";
+
+"not connected" = "no connectat";
+"no reply" = "sense resposta";
+"connection closed by device" = "connexió tancada pel dispositiu";
+"could not decode reply" = "no s'ha pogut descodificar la resposta";
+"timed out waiting for device" = "temps d'espera del dispositiu exhaurit";
+
+"Range" = "Rang";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Rang de mesura, o Auto";
+"Bias Level" = "Nivell de polarització";
+"Diode test current level" = "Nivell del corrent de prova del díode";
+"Filter" = "Filtre";
+"Off" = "Desactivat";
+"Repeat 10x" = "Repeteix 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Filtre de mitjana: desactivat, o repeteix el valor per defecte de l'instrument (×10)";
+"Rate" = "Velocitat";
+"Measurement speed (sample rate) preset" = "Preajust de velocitat de mesura (freqüència de mostreig)";
+"Advanced: raw speed value" = "Avançat: valor brut de velocitat";
+"Advanced" = "Avançat";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Obertura (s)";
+"Bandwidth" = "Amplada de banda";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Amplada de banda del detector: 3, 30 o 300 Hz";
+"Switch to Custom to edit" = "Canvieu a Personalitzat per editar-lo";
+"Apply changes" = "Aplica els canvis";
+
+"Voltage" = "Tensió";
+"Current" = "Corrent";
+"Resistance" = "Resistència";
+"Other" = "Altres";
+
+"DC Voltage" = "Tensió CC";
+"AC Voltage" = "Tensió CA";
+"DC Current" = "Corrent CC";
+"AC Current" = "Corrent CA";
+"2-Wire Resistance" = "Resistència a 2 fils";
+"4-Wire Resistance" = "Resistència a 4 fils";
+"Diode" = "Díode";
+"Capacitance" = "Capacitat";
+"Continuity" = "Continuïtat";
+"Temperature" = "Temperatura";
+"Frequency" = "Freqüència";
+"Period" = "Període";
+"Change the measurement function" = "Canvia la funció de mesura";
+
+"Moving" = "Mòbil";
+"Repeating" = "Repetitiu";
+"Fast" = "Ràpid";
+"Medium" = "Mitjà";
+"Slow" = "Lent";
+"Custom" = "Personalitzat";
+
+"Open" = "Obert";
+"Overflow" = "Desbordament";
+
+"Front" = "Davanter";
+"Rear" = "Posterior";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Terminals d'entrada seleccionats actualment per a aquesta mesura (panell davanter o posterior)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "El zero automàtic està activat: l'instrument es posa a zero periòdicament per cancel·lar la deriva de l'error de zero";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Impedància d'entrada de tensió CC: automàtica (>10 GΩ en els rangs més baixos)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Impedància d'entrada de tensió CC: fixa a 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Exporta CSV…";
+"Save recorded data as a CSV file" = "Desa les dades registrades com a fitxer CSV";
+"Could not save CSV" = "No s'ha pogut desar el CSV";

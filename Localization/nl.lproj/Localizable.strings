@@ -1,0 +1,105 @@
+"Connection" = "Verbinding";
+"Host" = "Host";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "Het IP-adres of de hostnaam van de multimeter op uw netwerk";
+"Reconnect" = "Opnieuw verbinden";
+"Connect" = "Verbinden";
+"Reconnect to the instrument" = "Opnieuw verbinden met het instrument";
+"Connect to the instrument" = "Verbinden met het instrument";
+
+"Connected" = "Verbonden";
+"Not connected" = "Niet verbonden";
+"Disconnected" = "Verbinding verbroken";
+"Connection settings" = "Verbindingsinstellingen";
+
+"Open graph window" = "Grafiekvenster openen";
+"Graph" = "Grafiek";
+"Stop" = "Stop";
+"Start" = "Start";
+"Stop recording readings" = "Stop met het vastleggen van metingen";
+"Start recording readings" = "Start met het vastleggen van metingen";
+"Clear" = "Wissen";
+"Clear all recorded data" = "Alle vastgelegde gegevens wissen";
+"No data recorded yet. Click Start to begin." = "Nog geen gegevens vastgelegd. Klik op Start om te beginnen.";
+"Time (s)" = "Tijd (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Leesfout: %@";
+"Bias level set failed: %@" = "Instellen van biasniveau mislukt: %@";
+"Function select failed: %@" = "Selecteren van functie mislukt: %@";
+"Speed set failed: %@" = "Instellen van snelheid mislukt: %@";
+"Range set failed: %@" = "Instellen van bereik mislukt: %@";
+"Filter set failed: %@" = "Instellen van filter mislukt: %@";
+
+"not connected" = "niet verbonden";
+"no reply" = "geen reactie";
+"connection closed by device" = "verbinding gesloten door apparaat";
+"could not decode reply" = "kon reactie niet decoderen";
+"timed out waiting for device" = "time-out bij wachten op apparaat";
+
+"Range" = "Bereik";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Meetbereik, of Auto";
+"Bias Level" = "Biasniveau";
+"Diode test current level" = "Teststroomniveau voor diodemeting";
+"Filter" = "Filter";
+"Off" = "Uit";
+"Repeat 10x" = "Herhaal 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Middelingsfilter: uit, of herhaal de standaardinstelling van het instrument (×10)";
+"Rate" = "Snelheid";
+"Measurement speed (sample rate) preset" = "Voorinstelling voor meetsnelheid (samplesnelheid)";
+"Advanced: raw speed value" = "Geavanceerd: ruwe snelheidswaarde";
+"Advanced" = "Geavanceerd";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Apertuur (s)";
+"Bandwidth" = "Bandbreedte";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Detectorbandbreedte: 3, 30 of 300 Hz";
+"Switch to Custom to edit" = "Schakel over naar Aangepast om te bewerken";
+"Apply changes" = "Wijzigingen toepassen";
+
+"Voltage" = "Spanning";
+"Current" = "Stroom";
+"Resistance" = "Weerstand";
+"Other" = "Overig";
+
+"DC Voltage" = "DC-spanning";
+"AC Voltage" = "AC-spanning";
+"DC Current" = "DC-stroom";
+"AC Current" = "AC-stroom";
+"2-Wire Resistance" = "2-draads weerstand";
+"4-Wire Resistance" = "4-draads weerstand";
+"Diode" = "Diode";
+"Capacitance" = "Capaciteit";
+"Continuity" = "Doorgang";
+"Temperature" = "Temperatuur";
+"Frequency" = "Frequentie";
+"Period" = "Periode";
+"Change the measurement function" = "Meetfunctie wijzigen";
+
+"Moving" = "Voortschrijdend";
+"Repeating" = "Herhalend";
+"Fast" = "Snel";
+"Medium" = "Gemiddeld";
+"Slow" = "Langzaam";
+"Custom" = "Aangepast";
+
+"Open" = "Open";
+"Overflow" = "Overloop";
+
+"Front" = "Voor";
+"Rear" = "Achter";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Momenteel geselecteerde ingangsaansluitingen voor deze meting (voor- of achterpaneel)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero is ingeschakeld: het instrument nulstelt zichzelf periodiek opnieuw om offsetdrift te compenseren";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Ingangsimpedantie voor DC-spanning: automatisch (>10 GΩ op de lagere bereiken)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Ingangsimpedantie voor DC-spanning: vast 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "CSV exporteren…";
+"Save recorded data as a CSV file" = "Vastgelegde gegevens opslaan als CSV-bestand";
+"Could not save CSV" = "CSV kon niet worden opgeslagen";

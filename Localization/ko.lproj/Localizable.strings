@@ -1,0 +1,105 @@
+"Connection" = "연결";
+"Host" = "호스트";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "네트워크에서 멀티미터의 IP 주소 또는 호스트 이름";
+"Reconnect" = "재연결";
+"Connect" = "연결";
+"Reconnect to the instrument" = "계측기에 다시 연결";
+"Connect to the instrument" = "계측기에 연결";
+
+"Connected" = "연결됨";
+"Not connected" = "연결되지 않음";
+"Disconnected" = "연결 끊김";
+"Connection settings" = "연결 설정";
+
+"Open graph window" = "그래프 창 열기";
+"Graph" = "그래프";
+"Stop" = "정지";
+"Start" = "시작";
+"Stop recording readings" = "측정값 기록 중지";
+"Start recording readings" = "측정값 기록 시작";
+"Clear" = "지우기";
+"Clear all recorded data" = "기록된 모든 데이터 지우기";
+"No data recorded yet. Click Start to begin." = "아직 기록된 데이터가 없습니다. 시작하려면 시작을 클릭하세요.";
+"Time (s)" = "시간 (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "읽기 오류: %@";
+"Bias level set failed: %@" = "바이어스 레벨 설정 실패: %@";
+"Function select failed: %@" = "기능 선택 실패: %@";
+"Speed set failed: %@" = "속도 설정 실패: %@";
+"Range set failed: %@" = "범위 설정 실패: %@";
+"Filter set failed: %@" = "필터 설정 실패: %@";
+
+"not connected" = "연결되지 않음";
+"no reply" = "응답 없음";
+"connection closed by device" = "장치에 의해 연결이 종료됨";
+"could not decode reply" = "응답을 디코딩할 수 없음";
+"timed out waiting for device" = "장치 응답 대기 시간 초과";
+
+"Range" = "범위";
+"Auto" = "자동";
+"Measurement range, or Auto" = "측정 범위 또는 자동";
+"Bias Level" = "바이어스 레벨";
+"Diode test current level" = "다이오드 테스트 전류 레벨";
+"Filter" = "필터";
+"Off" = "끄기";
+"Repeat 10x" = "10회 반복";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "평균화 필터: 끄기 또는 계측기 기본값 반복(×10)";
+"Rate" = "속도";
+"Measurement speed (sample rate) preset" = "측정 속도(샘플링 속도) 프리셋";
+"Advanced: raw speed value" = "고급: 원시 속도 값";
+"Advanced" = "고급";
+"NPLC" = "NPLC";
+"Aperture (s)" = "애퍼처 (s)";
+"Bandwidth" = "대역폭";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "검출기 대역폭: 3, 30 또는 300 Hz";
+"Switch to Custom to edit" = "편집하려면 사용자 지정으로 전환하세요";
+"Apply changes" = "변경 사항 적용";
+
+"Voltage" = "전압";
+"Current" = "전류";
+"Resistance" = "저항";
+"Other" = "기타";
+
+"DC Voltage" = "DC 전압";
+"AC Voltage" = "AC 전압";
+"DC Current" = "DC 전류";
+"AC Current" = "AC 전류";
+"2-Wire Resistance" = "2선 저항";
+"4-Wire Resistance" = "4선 저항";
+"Diode" = "다이오드";
+"Capacitance" = "정전 용량";
+"Continuity" = "도통";
+"Temperature" = "온도";
+"Frequency" = "주파수";
+"Period" = "주기";
+"Change the measurement function" = "측정 기능 변경";
+
+"Moving" = "이동";
+"Repeating" = "반복";
+"Fast" = "빠름";
+"Medium" = "보통";
+"Slow" = "느림";
+"Custom" = "사용자 지정";
+
+"Open" = "오픈";
+"Overflow" = "오버플로우";
+
+"Front" = "전면";
+"Rear" = "후면";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "현재 이 측정에 선택된 입력 단자(전면 또는 후면 패널)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "오토 제로가 켜져 있습니다: 계측기가 오프셋 드리프트를 제거하기 위해 주기적으로 자체 영점 조정을 수행합니다";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "DC 전압 입력 임피던스: 자동(낮은 범위에서 >10 GΩ)";
+"DC Voltage input impedance: fixed 10 MΩ" = "DC 전압 입력 임피던스: 고정 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "CSV 내보내기…";
+"Save recorded data as a CSV file" = "기록된 데이터를 CSV 파일로 저장";
+"Could not save CSV" = "CSV를 저장할 수 없습니다";

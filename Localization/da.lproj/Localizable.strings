@@ -1,0 +1,105 @@
+"Connection" = "Forbindelse";
+"Host" = "Vært";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "Multimeterets IP-adresse eller værtsnavn på dit netværk";
+"Reconnect" = "Genopret forbindelse";
+"Connect" = "Opret forbindelse";
+"Reconnect to the instrument" = "Genopret forbindelsen til instrumentet";
+"Connect to the instrument" = "Opret forbindelse til instrumentet";
+
+"Connected" = "Forbundet";
+"Not connected" = "Ikke forbundet";
+"Disconnected" = "Afbrudt";
+"Connection settings" = "Forbindelsesindstillinger";
+
+"Open graph window" = "Åbn grafvindue";
+"Graph" = "Graf";
+"Stop" = "Stop";
+"Start" = "Start";
+"Stop recording readings" = "Stop registrering af målinger";
+"Start recording readings" = "Start registrering af målinger";
+"Clear" = "Ryd";
+"Clear all recorded data" = "Ryd alle registrerede data";
+"No data recorded yet. Click Start to begin." = "Ingen data registreret endnu. Klik på Start for at begynde.";
+"Time (s)" = "Tid (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Læsefejl: %@";
+"Bias level set failed: %@" = "Indstilling af biasniveau mislykkedes: %@";
+"Function select failed: %@" = "Valg af funktion mislykkedes: %@";
+"Speed set failed: %@" = "Indstilling af hastighed mislykkedes: %@";
+"Range set failed: %@" = "Indstilling af måleområde mislykkedes: %@";
+"Filter set failed: %@" = "Indstilling af filter mislykkedes: %@";
+
+"not connected" = "ikke forbundet";
+"no reply" = "intet svar";
+"connection closed by device" = "forbindelse lukket af enheden";
+"could not decode reply" = "kunne ikke afkode svar";
+"timed out waiting for device" = "timeout ved venten på enheden";
+
+"Range" = "Måleområde";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Måleområde, eller Auto";
+"Bias Level" = "Biasniveau";
+"Diode test current level" = "Teststrømniveau for diode";
+"Filter" = "Filter";
+"Off" = "Fra";
+"Repeat 10x" = "Gentag 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Middelværdifilter: fra, eller gentag instrumentets standard (×10)";
+"Rate" = "Hastighed";
+"Measurement speed (sample rate) preset" = "Forudindstilling for målehastighed (samplingsrate)";
+"Advanced: raw speed value" = "Avanceret: rå hastighedsværdi";
+"Advanced" = "Avanceret";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Apertur (s)";
+"Bandwidth" = "Båndbredde";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Detektorbåndbredde: 3, 30 eller 300 Hz";
+"Switch to Custom to edit" = "Skift til Brugerdefineret for at redigere";
+"Apply changes" = "Anvend ændringer";
+
+"Voltage" = "Spænding";
+"Current" = "Strøm";
+"Resistance" = "Modstand";
+"Other" = "Andet";
+
+"DC Voltage" = "DC-spænding";
+"AC Voltage" = "AC-spænding";
+"DC Current" = "DC-strøm";
+"AC Current" = "AC-strøm";
+"2-Wire Resistance" = "2-leder modstand";
+"4-Wire Resistance" = "4-leder modstand";
+"Diode" = "Diode";
+"Capacitance" = "Kapacitans";
+"Continuity" = "Kontinuitet";
+"Temperature" = "Temperatur";
+"Frequency" = "Frekvens";
+"Period" = "Periode";
+"Change the measurement function" = "Skift målefunktion";
+
+"Moving" = "Glidende";
+"Repeating" = "Gentagende";
+"Fast" = "Hurtig";
+"Medium" = "Middel";
+"Slow" = "Langsom";
+"Custom" = "Brugerdefineret";
+
+"Open" = "Åben";
+"Overflow" = "Overløb";
+
+"Front" = "Front";
+"Rear" = "Bag";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Indgangsterminaler, der aktuelt er valgt til denne måling (front- eller bagpanel)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero er aktiveret: instrumentet nulstiller sig selv med jævne mellemrum for at eliminere offsetdrift";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Indgangsimpedans for DC-spænding: automatisk (>10 GΩ på de lavere måleområder)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Indgangsimpedans for DC-spænding: fast 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Eksportér CSV…";
+"Save recorded data as a CSV file" = "Gem optagede data som CSV-fil";
+"Could not save CSV" = "CSV kunne ikke gemmes";

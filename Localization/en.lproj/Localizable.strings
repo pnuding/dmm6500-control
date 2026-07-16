@@ -1,0 +1,117 @@
+/* Connection settings popover */
+"Connection" = "Connection";
+"Host" = "Host";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "The multimeter's IP address or hostname on your network";
+"Reconnect" = "Reconnect";
+"Connect" = "Connect";
+"Reconnect to the instrument" = "Reconnect to the instrument";
+"Connect to the instrument" = "Connect to the instrument";
+
+/* Connection status (toolbar icon tooltip / accessibility label) */
+"Connected" = "Connected";
+"Not connected" = "Not connected";
+"Disconnected" = "Disconnected";
+"Connection settings" = "Connection settings";
+
+/* Toolbar / graph window */
+"Open graph window" = "Open graph window";
+"Graph" = "Graph";
+"Stop" = "Stop";
+"Start" = "Start";
+"Stop recording readings" = "Stop recording readings";
+"Start recording readings" = "Start recording readings";
+"Clear" = "Clear";
+"Clear all recorded data" = "Clear all recorded data";
+"No data recorded yet. Click Start to begin." = "No data recorded yet. Click Start to begin.";
+"Time (s)" = "Time (s)";
+
+/* Window title */
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+/* Status / error messages */
+"Read error: %@" = "Read error: %@";
+"Bias level set failed: %@" = "Bias level set failed: %@";
+"Function select failed: %@" = "Function select failed: %@";
+"Speed set failed: %@" = "Speed set failed: %@";
+"Range set failed: %@" = "Range set failed: %@";
+"Filter set failed: %@" = "Filter set failed: %@";
+
+/* Low-level device errors (embedded inside the status messages above) */
+"not connected" = "not connected";
+"no reply" = "no reply";
+"connection closed by device" = "connection closed by device";
+"could not decode reply" = "could not decode reply";
+"timed out waiting for device" = "timed out waiting for device";
+
+/* Range / Bias / Filter / Sample Rate controls */
+"Range" = "Range";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Measurement range, or Auto";
+"Bias Level" = "Bias Level";
+"Diode test current level" = "Diode test current level";
+"Filter" = "Filter";
+"Off" = "Off";
+"Repeat 10x" = "Repeat 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Averaging filter: off, or repeat the instrument's default (×10)";
+"Rate" = "Rate";
+"Measurement speed (sample rate) preset" = "Measurement speed (sample rate) preset";
+"Advanced: raw speed value" = "Advanced: raw speed value";
+"Advanced" = "Advanced";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Aperture (s)";
+"Bandwidth" = "Bandwidth";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Detector bandwidth: 3, 30, or 300 Hz";
+"Switch to Custom to edit" = "Switch to Custom to edit";
+"Apply changes" = "Apply changes";
+
+/* Measurement function categories (function-picker menu section headers) */
+"Voltage" = "Voltage";
+"Current" = "Current";
+"Resistance" = "Resistance";
+"Other" = "Other";
+
+/* Measurement function names */
+"DC Voltage" = "DC Voltage";
+"AC Voltage" = "AC Voltage";
+"DC Current" = "DC Current";
+"AC Current" = "AC Current";
+"2-Wire Resistance" = "2-Wire Resistance";
+"4-Wire Resistance" = "4-Wire Resistance";
+"Diode" = "Diode";
+"Capacitance" = "Capacitance";
+"Continuity" = "Continuity";
+"Temperature" = "Temperature";
+"Frequency" = "Frequency";
+"Period" = "Period";
+"Change the measurement function" = "Change the measurement function";
+
+/* Filter type / sample rate preset names */
+"Moving" = "Moving";
+"Repeating" = "Repeating";
+"Fast" = "Fast";
+"Medium" = "Medium";
+"Slow" = "Slow";
+"Custom" = "Custom";
+
+/* Overrange placeholder */
+"Open" = "Open";
+"Overflow" = "Overflow";
+
+/* Read-only status badges (abbreviated the way the instrument itself does) */
+"Front" = "Front";
+"Rear" = "Rear";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Input terminals currently selected for this measurement (front or rear panel)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)";
+"DC Voltage input impedance: fixed 10 MΩ" = "DC Voltage input impedance: fixed 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Export CSV…";
+"Save recorded data as a CSV file" = "Save recorded data as a CSV file";
+"Could not save CSV" = "Could not save CSV";

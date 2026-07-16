@@ -1,0 +1,105 @@
+"Connection" = "Verbindung";
+"Host" = "Host";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "Die IP-Adresse oder der Hostname des Multimeters im Netzwerk";
+"Reconnect" = "Erneut verbinden";
+"Connect" = "Verbinden";
+"Reconnect to the instrument" = "Erneut mit dem Gerät verbinden";
+"Connect to the instrument" = "Mit dem Gerät verbinden";
+
+"Connected" = "Verbunden";
+"Not connected" = "Nicht verbunden";
+"Disconnected" = "Getrennt";
+"Connection settings" = "Verbindungseinstellungen";
+
+"Open graph window" = "Diagrammfenster öffnen";
+"Graph" = "Diagramm";
+"Stop" = "Stopp";
+"Start" = "Start";
+"Stop recording readings" = "Aufzeichnung der Messwerte stoppen";
+"Start recording readings" = "Aufzeichnung der Messwerte starten";
+"Clear" = "Löschen";
+"Clear all recorded data" = "Alle aufgezeichneten Daten löschen";
+"No data recorded yet. Click Start to begin." = "Noch keine Daten aufgezeichnet. Zum Starten auf Start klicken.";
+"Time (s)" = "Zeit (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Lesefehler: %@";
+"Bias level set failed: %@" = "Einstellen des Bias-Pegels fehlgeschlagen: %@";
+"Function select failed: %@" = "Funktionsauswahl fehlgeschlagen: %@";
+"Speed set failed: %@" = "Einstellen der Geschwindigkeit fehlgeschlagen: %@";
+"Range set failed: %@" = "Einstellen des Messbereichs fehlgeschlagen: %@";
+"Filter set failed: %@" = "Einstellen des Filters fehlgeschlagen: %@";
+
+"not connected" = "nicht verbunden";
+"no reply" = "keine Antwort";
+"connection closed by device" = "Verbindung vom Gerät geschlossen";
+"could not decode reply" = "Antwort konnte nicht decodiert werden";
+"timed out waiting for device" = "Zeitüberschreitung beim Warten auf das Gerät";
+
+"Range" = "Messbereich";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Messbereich oder Auto";
+"Bias Level" = "Bias-Pegel";
+"Diode test current level" = "Stromstärke für den Diodentest";
+"Filter" = "Filter";
+"Off" = "Aus";
+"Repeat 10x" = "10x wiederholen";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Mittelwertfilter: aus, oder Standardwiederholung des Geräts (×10)";
+"Rate" = "Rate";
+"Measurement speed (sample rate) preset" = "Voreinstellung für Messgeschwindigkeit (Abtastrate)";
+"Advanced: raw speed value" = "Erweitert: Rohwert der Geschwindigkeit";
+"Advanced" = "Erweitert";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Apertur (s)";
+"Bandwidth" = "Bandbreite";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Detektorbandbreite: 3, 30 oder 300 Hz";
+"Switch to Custom to edit" = "Zum Bearbeiten zu Benutzerdefiniert wechseln";
+"Apply changes" = "Änderungen anwenden";
+
+"Voltage" = "Spannung";
+"Current" = "Strom";
+"Resistance" = "Widerstand";
+"Other" = "Sonstige";
+
+"DC Voltage" = "Gleichspannung";
+"AC Voltage" = "Wechselspannung";
+"DC Current" = "Gleichstrom";
+"AC Current" = "Wechselstrom";
+"2-Wire Resistance" = "2-Leiter-Widerstand";
+"4-Wire Resistance" = "4-Leiter-Widerstand";
+"Diode" = "Diode";
+"Capacitance" = "Kapazität";
+"Continuity" = "Durchgang";
+"Temperature" = "Temperatur";
+"Frequency" = "Frequenz";
+"Period" = "Periode";
+"Change the measurement function" = "Messfunktion ändern";
+
+"Moving" = "Gleitend";
+"Repeating" = "Wiederholend";
+"Fast" = "Schnell";
+"Medium" = "Mittel";
+"Slow" = "Langsam";
+"Custom" = "Benutzerdefiniert";
+
+"Open" = "Offen";
+"Overflow" = "Überlauf";
+
+"Front" = "Front";
+"Rear" = "Rückseite";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Für diese Messung aktuell ausgewählte Eingangsanschlüsse (Front- oder Rückseite)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero ist aktiviert: Das Gerät nullt sich periodisch selbst ab, um Offset-Drift zu kompensieren";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Eingangsimpedanz für Gleichspannung: automatisch (>10 GΩ in den unteren Messbereichen)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Eingangsimpedanz für Gleichspannung: fest 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "CSV exportieren…";
+"Save recorded data as a CSV file" = "Aufgezeichnete Daten als CSV-Datei speichern";
+"Could not save CSV" = "CSV konnte nicht gespeichert werden";

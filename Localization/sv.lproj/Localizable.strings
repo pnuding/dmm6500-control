@@ -1,0 +1,105 @@
+"Connection" = "Anslutning";
+"Host" = "Värd";
+"192.168.1.50" = "192.168.1.50";
+"The multimeter's IP address or hostname on your network" = "Multimeterns IP-adress eller värdnamn på nätverket";
+"Reconnect" = "Anslut igen";
+"Connect" = "Anslut";
+"Reconnect to the instrument" = "Anslut till instrumentet igen";
+"Connect to the instrument" = "Anslut till instrumentet";
+
+"Connected" = "Ansluten";
+"Not connected" = "Inte ansluten";
+"Disconnected" = "Frånkopplad";
+"Connection settings" = "Anslutningsinställningar";
+
+"Open graph window" = "Öppna graffönster";
+"Graph" = "Graf";
+"Stop" = "Stoppa";
+"Start" = "Starta";
+"Stop recording readings" = "Sluta spela in mätvärden";
+"Start recording readings" = "Börja spela in mätvärden";
+"Clear" = "Rensa";
+"Clear all recorded data" = "Rensa alla inspelade data";
+"No data recorded yet. Click Start to begin." = "Inga data har spelats in ännu. Klicka på Starta för att börja.";
+"Time (s)" = "Tid (s)";
+
+"DMM6500 Control" = "DMM6500 Control";
+"%@ Control" = "%@ Control";
+
+"Read error: %@" = "Läsfel: %@";
+"Bias level set failed: %@" = "Det gick inte att ställa in biasnivå: %@";
+"Function select failed: %@" = "Det gick inte att välja funktion: %@";
+"Speed set failed: %@" = "Det gick inte att ställa in hastighet: %@";
+"Range set failed: %@" = "Det gick inte att ställa in mätområde: %@";
+"Filter set failed: %@" = "Det gick inte att ställa in filter: %@";
+
+"not connected" = "inte ansluten";
+"no reply" = "inget svar";
+"connection closed by device" = "anslutningen stängdes av enheten";
+"could not decode reply" = "kunde inte avkoda svaret";
+"timed out waiting for device" = "tidsgränsen överskreds vid väntan på enheten";
+
+"Range" = "Mätområde";
+"Auto" = "Auto";
+"Measurement range, or Auto" = "Mätområde, eller Auto";
+"Bias Level" = "Biasnivå";
+"Diode test current level" = "Testströmnivå för diod";
+"Filter" = "Filter";
+"Off" = "Av";
+"Repeat 10x" = "Upprepa 10x";
+"Averaging filter: off, or repeat the instrument's default (×10)" = "Medelvärdesfilter: av, eller upprepa instrumentets standard (×10)";
+"Rate" = "Hastighet";
+"Measurement speed (sample rate) preset" = "Förinställning för mäthastighet (samplingsfrekvens)";
+"Advanced: raw speed value" = "Avancerat: råvärde för hastighet";
+"Advanced" = "Avancerat";
+"NPLC" = "NPLC";
+"Aperture (s)" = "Apertur (s)";
+"Bandwidth" = "Bandbredd";
+"%@ Hz" = "%@ Hz";
+"Detector bandwidth: 3, 30, or 300 Hz" = "Detektorbandbredd: 3, 30 eller 300 Hz";
+"Switch to Custom to edit" = "Växla till Anpassad för att redigera";
+"Apply changes" = "Verkställ ändringar";
+
+"Voltage" = "Spänning";
+"Current" = "Ström";
+"Resistance" = "Resistans";
+"Other" = "Övrigt";
+
+"DC Voltage" = "DC-spänning";
+"AC Voltage" = "AC-spänning";
+"DC Current" = "DC-ström";
+"AC Current" = "AC-ström";
+"2-Wire Resistance" = "2-ledarresistans";
+"4-Wire Resistance" = "4-ledarresistans";
+"Diode" = "Diod";
+"Capacitance" = "Kapacitans";
+"Continuity" = "Kontinuitet";
+"Temperature" = "Temperatur";
+"Frequency" = "Frekvens";
+"Period" = "Period";
+"Change the measurement function" = "Ändra mätfunktion";
+
+"Moving" = "Glidande";
+"Repeating" = "Upprepande";
+"Fast" = "Snabb";
+"Medium" = "Medel";
+"Slow" = "Långsam";
+"Custom" = "Anpassad";
+
+"Open" = "Öppen";
+"Overflow" = "Överspill";
+
+"Front" = "Front";
+"Rear" = "Bak";
+"AZero" = "AZero";
+"AutoΩ" = "AutoΩ";
+"10 MΩ" = "10 MΩ";
+"Input terminals currently selected for this measurement (front or rear panel)" = "Ingångsterminaler som för närvarande är valda för denna mätning (front- eller bakpanel)";
+"Auto Zero is on: the instrument periodically re-zeros itself to cancel offset drift" = "Auto Zero är på: instrumentet nollställer sig periodiskt för att kompensera för offsetdrift";
+"DC Voltage input impedance: automatic (>10 GΩ on the lower ranges)" = "Ingångsimpedans för DC-spänning: automatisk (>10 GΩ på de lägre mätområdena)";
+"DC Voltage input impedance: fixed 10 MΩ" = "Ingångsimpedans för DC-spänning: fast 10 MΩ";
+
+/* CSV export */
+"Export CSV…" = "Exportera CSV…";
+"Save recorded data as a CSV file" = "Spara inspelade data som en CSV-fil";
+"Could not save CSV" = "CSV kunde inte sparas";
